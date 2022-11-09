@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-17 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I am attending Conference on Complex Systems [CCS2022](https://www.ccs2022.org) in Palma de Mallorca, Spain :sunny:
