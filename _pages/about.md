@@ -15,9 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my page! It's still under construction but make yourself at home! 
+Welcome to my page!
 
-I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it). I am moving my first steps in graduate studies and reasearch. 
+I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it). I am moving my first steps into graduate studies and reasearch. 
 
 My interest relies in the study of Complex Systems with a particular focus on Network Science and Higher-Order systems.
 
