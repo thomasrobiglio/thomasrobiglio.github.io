@@ -23,4 +23,4 @@ My interest relies in the study of Complex Systems with a particular focus on Ne
 
 As part of my BSc. in Physics at [Università degli Studi di Torino](https://fisica.campusnet.unito.it/do/home.pl) I carried out an internship at [ISI Foundation](https://www.isi.it/en/home) under the supervision of [Giovanni Petri](https://lordgrilo.github.io). At ISI I studied higher-order contagions, focusing in particular on modeling the effects of interactions between pathogens. The results of this work are presented in my [bachelor thesis](https://github.com/thomasrobiglio/SimplicialInteractingContagion/blob/main/tesi_presentazione_robiglio.pdf) (only in italian, sorry) and in a paper currently under review (preprint [here](https://arxiv.org/abs/2206.07645)).
 
-While I finish editing the page you can find my complete CV [here](https://thomasrobiglio.github.io/assets/pdf/Thomas_Robiglio_CV.pdf)
+While I finish editing the page you can find my complete CV [here](https://thomasrobiglio.github.io/assets/pdf/Thomas_Robiglio_CV.pdf).
