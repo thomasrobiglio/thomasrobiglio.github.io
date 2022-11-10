@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my page! It's still under construction but make yourself at home! 
+Welcome to my page! It's still :gear: under construction :gear: but make yourself at home! 
 
 I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it). I am moving my first steps in graduate studies and reasearch. 
 
