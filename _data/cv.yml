@@ -26,6 +26,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Internship Student
+      institution: CPT, Marseille
+    - title: Visiting Student
+      institution: CENTAI Institute
+      year: 2023
     - title: Student
       institution: ISI Foundation
       year: 2021
