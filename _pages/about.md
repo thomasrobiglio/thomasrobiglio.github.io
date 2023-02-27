@@ -6,7 +6,7 @@ subtitle: International MSc. program in Physics of Complex Systems
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: trial.png
   image_circular: true # crops the image to make it circular
   address: >
 
