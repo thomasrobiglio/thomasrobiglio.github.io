@@ -19,6 +19,6 @@ Welcome to my page!
 
 I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it). I am moving my first steps into graduate studies and reasearch. 
 
-My interest relies in the study of Complex Systems with a particular focus on Network Science and Higher-Order systems.
+My interest relies in the study of Complex Systems using tools from Network Science and Statistical Physics with a particular focus on Higher-Order systems.
 
-As part of my BSc. in Physics at [Università degli Studi di Torino](https://fisica.campusnet.unito.it/do/home.pl) I carried out an internship at [ISI Foundation](https://www.isi.it/en/home) under the supervision of [Giovanni Petri](https://lordgrilo.github.io). At ISI I studied higher-order contagions, focusing in particular on modeling the effects of interactions between pathogens. The results of this work are presented in my [bachelor thesis](https://thomasrobiglio.github.io/assets/pdf/tesi_presentazione_robiglio.pdf) (only in italian, sorry) and in a paper currently under review (preprint [here](https://arxiv.org/abs/2206.07645)).
+I am currently working on my MSc thesis under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/english.html) and [Mathieu Génois](https://www.cpt.univ-mrs.fr/spip.php?page=personne&id_personne=143&lang=en) at [CPT](https://www.cpt.univ-mrs.fr/?lang=en) in Marseille. The thesis deals with the the study of attractiveness and higher-order structures in face-to-face interactions in human gatherings. I am also working in the [NPL](https://nplresearch.github.io) group at [Centai](https://centai.eu/home) in Torino on the inference of higher-order structures from Kuramoto dynamics. 
