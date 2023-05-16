@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: International masters. program in Physics of Complex Systems
+subtitle: National masters. program in Physics of Complex Systems
 
 profile:
   align: right
