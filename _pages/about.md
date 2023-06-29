@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page!
 
-I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it). I am moving my first steps into graduate studies and reasearch. 
+I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it) and upcoming PhD student in Network Science at the [Department of Network and Data Science at CEU](https://networkdatascience.ceu.edu). I am moving my first steps into graduate studies and reasearch. 
 
 My interest relies in the study of Complex Systems using tools from Network Science and Statistical Physics with a particular focus on Higher-Order systems.
 
