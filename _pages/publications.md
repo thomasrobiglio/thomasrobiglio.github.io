@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: I hope this page gets more crowded along the way...
+description:
 years: [2023, 2021]
 
 nav: true
