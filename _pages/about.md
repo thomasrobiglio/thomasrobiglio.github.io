@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: International MSc. program in Physics of Complex Systems
+subtitle: [Dept. of Network and Data Science, CEU](https://courses.ceu.edu/unit/dnds)
 
 profile:
   align: right
@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page!
 
-I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it) and upcoming PhD student in Network Science at the [Department of Network and Data Science at CEU](https://networkdatascience.ceu.edu). I am moving my first steps into graduate studies and reasearch. 
+I am a PhD student in Network Science at the [Department of Network and Data Science at CEU](https://networkdatascience.ceu.edu). I am moving my first steps into graduate studies and reasearch. Previously I obtained my MSc. degree in [Physics of Complex Systems](http://www.pcs.polito.it) from Politecnico di Torino and Sorbonne Université.
 
 My interest relies in the study of Complex Systems using tools from Network Science and Statistical Physics with a particular focus on Higher-Order systems.
 
-I am currently working on my MSc thesis under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/english.html) and [Mathieu Génois](https://www.cpt.univ-mrs.fr/spip.php?page=personne&id_personne=143&lang=en) at [CPT](https://www.cpt.univ-mrs.fr/?lang=en) in Marseille. The thesis deals with the the study of attractiveness and higher-order structures in face-to-face interactions in human gatherings. I am also working in the [NPL](https://nplresearch.github.io) group at [Centai](https://centai.eu/home) in Torino on the inference of higher-order structures from Kuramoto dynamics. 
+During my [MSc internship](https://thomasrobiglio.github.io/assets/pdf/MSc_thesis.pdf) I have worked under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/english.html) and [Mathieu Génois](https://www.cpt.univ-mrs.fr/spip.php?page=personne&id_personne=143&lang=en) at [CPT](https://www.cpt.univ-mrs.fr/?lang=en) in Marseille. The thesis deals with the the study of attractiveness and higher-order structures in face-to-face interactions in human gatherings. I am also working in the [NPL](https://nplresearch.github.io) group at [Centai](https://centai.eu/home) in Torino on the relation between mechanism and behavior in complex systems with higher-order interactions. 
