@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Dept. of Network and Data Science, CEU](https://courses.ceu.edu/unit/dnds)
+subtitle: Dept. of Network and Data Science, CEU
 
 profile:
   align: right
