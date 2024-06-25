@@ -22,3 +22,6 @@ I am a PhD student in Network Science at the [Department of Network and Data Sci
 My interest relies in the study of Complex Systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.
 
 I work under the supervision of [Tiago P. Peixoto](https://skewed.de/tiago/) and [Márton Karsai](https://www.martonkarsai.com) on the application of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria.
+
+**Previous affiliations and supervisors:**
+- [Centre de Physique Théorique](https://www.cpt.univ-mrs.fr), Marseille, FRA. Alain Barrat and Mathieu Génois
