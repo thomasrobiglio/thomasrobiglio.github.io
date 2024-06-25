@@ -19,11 +19,11 @@ Welcome to my page!
 
 I am a PhD student in Network Science at the [Department of Network and Data Science at CEU](https://networkdatascience.ceu.edu). I am moving my first steps into graduate studies and reasearch. Previously, I obtained my MSc. degree in [Physics of Complex Systems](http://www.pcs.polito.it) from Politecnico di Torino and Sorbonne Université.
 
-My interest relies in the study of Complex Systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.
+My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.
 
 I work under the supervision of [Tiago P. Peixoto](https://skewed.de/tiago/) and [Márton Karsai](https://www.martonkarsai.com) on the application of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria.
 
 **Previous affiliations and supervisors:**
 - [Centre de Physique Théorique](https://www.cpt.univ-mrs.fr), Marseille, FRA. [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/) and Mathieu Génois.
-- [NPL group](https://nplresearch.github.io) at CENTAI, ISI Foundation, Torino, ITA. [Giovanni Petri](https://lordgrilo.github.io).
+- [NPL group](https://nplresearch.github.io) at CENTAI, [ISI Foundation](https://www.isi.it), Torino, ITA. [Giovanni Petri](https://lordgrilo.github.io).
 - Dept. of Physics, UniTO, Torino, ITA. Matteo Osella.
