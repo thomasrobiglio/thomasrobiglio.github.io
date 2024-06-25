@@ -19,6 +19,6 @@ Welcome to my page!
 
 I am a PhD student in Network Science at the [Department of Network and Data Science at CEU](https://networkdatascience.ceu.edu). I am moving my first steps into graduate studies and reasearch. Previously, I obtained my MSc. degree in [Physics of Complex Systems](http://www.pcs.polito.it) from Politecnico di Torino and Sorbonne Université.
 
-My interest relies in the study of Complex Systems using tools from Network Science and Statistical Physics with a particular focus on Higher-Order systems.
+My interest relies in the study of Complex Systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.
 
-During my [MSc internship](https://thomasrobiglio.github.io/assets/pdf/MSc_thesis.pdf) I have worked under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/english.html) and [Mathieu Génois](https://www.cpt.univ-mrs.fr/spip.php?page=personne&id_personne=143&lang=en) at [CPT](https://www.cpt.univ-mrs.fr/?lang=en) in Marseille. The thesis deals with the the study of attractiveness and higher-order structures in face-to-face interactions in human gatherings. I am also working in the [NPL](https://nplresearch.github.io) group at [Centai](https://centai.eu/home) in Torino on the relation between mechanism and behavior in complex systems with higher-order interactions. 
+I work under the supervision of [Tiago P. Peixoto](https://skewed.de/tiago/) and [Márton Karsai](https://www.martonkarsai.com) on the application of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria.
