@@ -6,7 +6,7 @@ subtitle: Dept. of Network and Data Science, CEU
 
 profile:
   align: right
-  image: prof_pic_new.HEIC
+  image: prof_pic_new.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
