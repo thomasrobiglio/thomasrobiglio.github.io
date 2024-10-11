@@ -6,7 +6,7 @@ subtitle: Dept. of Network and Data Science, CEU
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_new.HEIC
   image_circular: true # crops the image to make it circular
   address: >
 
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page!
 
-I am a PhD student in Network Science at the [Department of Network and Data Science at CEU](https://networkdatascience.ceu.edu). I am moving my first steps into graduate studies and reasearch. Previously, I obtained my MSc. degree in [Physics of Complex Systems](http://www.pcs.polito.it) from Politecnico di Torino and Sorbonne Université.
+I am a PhD student in Network Science at the [Department of Network and Data Science at CEU](https://networkdatascience.ceu.edu). I am moving my first steps into graduate studies and research. Previously, I obtained my MSc. degree in [Physics of Complex Systems](http://www.pcs.polito.it) from Politecnico di Torino and Sorbonne Université.
 
 My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.
 
