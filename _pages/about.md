@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Dept. of Network and Data Science, CEU
+subtitle: Inverse Complexity Lab, IT:U
 
 profile:
   align: right
