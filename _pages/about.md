@@ -17,11 +17,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there!
 
-I am a PhD student in Network Science at the [Department of Network and Data Science at CEU](https://networkdatascience.ceu.edu). I am moving my first steps into graduate studies and research. Previously, I obtained my MSc. degree in [Physics of Complex Systems](http://www.pcs.polito.it) from Politecnico di Torino and Sorbonne Université.
+I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/). I am moving my first steps into graduate studies and research. I am also completing a MPhil. in Network Science at the [Department of Network and Data Science](https://www.ceu.edu/unit/dnds).
 
-My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.
+My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on [inferential methods](https://skewed.de/lab/research.html) and higher-order systems.
 
-I work under the supervision of [Tiago P. Peixoto](https://skewed.de/tiago/) and [Márton Karsai](https://www.martonkarsai.com) on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria.
+I work under the supervision of [Tiago P. Peixoto](https://skewed.de/tiago/) on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of [internal migrations in Austria](https://moma.science).
 
 **Previous affiliations and supervisors:**
 - [Centre de Physique Théorique](https://www.cpt.univ-mrs.fr), Marseille, FRA. [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/) and Mathieu Génois.
