@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Thomas Robiglio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - CV.qmd
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "I'm in the slow process of updating this website, please bear with me."
+    type: primary
+    position: below-navbar
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

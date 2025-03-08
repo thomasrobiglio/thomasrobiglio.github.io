@@ -1,0 +1,45 @@
+---
+title: "Thomas Robiglio"
+subtitle: "[Inverse Complexity Lab](https://skewed.de/lab/)"
+image: "pictures/MD00637.jpg"
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:robigliothomas@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/thomasrobiglio
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/thomas-robiglio-04088822b
+    - icon: google scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=uea_f2MAAAAJ
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/thomrobiglio
+    - icon: strava
+      text: Strava
+      href: https://www.strava.com/athletes/28994784
+    
+---
+
+:::{#hero-heading}
+Hello there!
+
+I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/). I am moving my first steps into graduate studies and research. I am also completing a MPhil. in Network Science at the [Department of Network and Data Science](https://www.ceu.edu/unit/dnds).
+
+My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on [inferential methods](https://skewed.de/lab/research.html) and higher-order systems.
+
+I work under the supervision of [Tiago P. Peixoto](https://skewed.de/tiago/) on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of [internal migrations in Austria](https://moma.science).
+:::
+
+## Previous affiliations:
+* [Centre de Physique Théorique](https://www.cpt.univ-mrs.fr), Marseille, FRA. [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/) and Mathieu Génois.
+* [NPL group](https://nplresearch.github.io) at CENTAI, [ISI Foundation](https://www.isi.it), Torino, ITA. [Giovanni Petri](https://lordgrilo.github.io).
+* Dept. of Physics, UniTO, Torino, ITA. Matteo Osella.
