@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD in Complex Systems and Network Science (October 2025 - Present) Thesis: “Internal migrations in Austria: modeling and inference of temporal graphs”\nSupervisors: Prof. T. P. Peixoto\n\n\n\nMaster of Philosophy in Network Science (September 2023 - Present)\n\n\n\nMaster of Science in Physics of Complex Systems (September 2021 - July 2023)\nThesis: “Higher-order structures in face-to-face interaction networks”\nSupervisors: Prof. A. Barrat, Prof. M. Génois, Prof. L. Dall’Asta\nInternational Track (Graduated 28 July 2023)\n\n\n\nBachelor in Physical Science and Technology (September 2018 - July 2021)\nThesis: “Interacting contagion models on simplicial complexes”\nSupervisors: Prof. M. Osella, Dr. G. Petri\nDepartment of Physics (Graduated 20 July 2021)"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD in Complex Systems and Network Science (October 2025 - Present) Thesis: “Internal migrations in Austria: modeling and inference of temporal graphs”\nSupervisors: Prof. T. P. Peixoto\n\n\n\nMaster of Philosophy in Network Science (September 2023 - Present)\n\n\n\nMaster of Science in Physics of Complex Systems (September 2021 - July 2023)\nThesis: “Higher-order structures in face-to-face interaction networks”\nSupervisors: Prof. A. Barrat, Prof. M. Génois, Prof. L. Dall’Asta\nInternational Track (Graduated 28 July 2023)\n\n\n\nBachelor in Physical Science and Technology (September 2018 - July 2021)\nThesis: “Interacting contagion models on simplicial complexes”\nSupervisors: Prof. M. Osella, Dr. G. Petri\nDepartment of Physics (Graduated 20 July 2021)"
+  },
+  {
+    "objectID": "CV.html#experience",
+    "href": "CV.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nCentre de Physique Théorique, Marseille\nMarch 2023 - July 2023\nInternship Student\nWorked under the supervision of Prof. Alain Barrat and Prof. Mathieu Génois on the statistical analysis and mathematical modeling of face-to-face interactions in human gatherings.\n\n\nCENTAI Institute\nFebruary 2023 - September 2023\nVisiting Student\nWorked under the supervision of Prof. Giovanni Petri on the relation between mechanism and behavior in complex systems with higher-order interactions.\n\n\nISI Foundation\nApril 2021 - July 2021\nStudent\nAssisted senior research scientist Dr. Giovanni Petri in the study of high-order interactions and spreading phenomena on simplicial complexes. The results of this work are the focus of my undergraduate thesis."
+  },
+  {
+    "objectID": "CV.html#participations-in-schools-and-conferences",
+    "href": "CV.html#participations-in-schools-and-conferences",
+    "title": "Curriculum Vitae",
+    "section": "Participations in Schools and Conferences",
+    "text": "Participations in Schools and Conferences\n\nInternational School and Conference on Network Science - Vienna (Austria), 10/07/2023 - 14/07/2023\n\nSpring College on the Physics of Complex Systems, ICTP - Trieste (Italy), 20/02/2023 - 17/03/2023\n\nConference on Complex Systems, Palma de Mallorca (Spain), 17-21/10/2022"
+  },
+  {
+    "objectID": "CV.html#software",
+    "href": "CV.html#software",
+    "title": "Curriculum Vitae",
+    "section": "Software",
+    "text": "Software\n\nXGI: CompleX Group Interactions - a Python package for higher-order networks.\n\nHOI: A Python package for higher-order information theory, optimized using JAX."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thomas Robiglio",
+    "section": "",
+    "text": "E-mail\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Twitter\n  \n  \n    \n     Strava\n  \n\n  \n  \nHello there!\nI am a PhD student in Complex Systems and Network Science at IT:U, Interdisciplinary Transformation University - Austria. I am moving my first steps into graduate studies and research. I am also completing a MPhil. in Network Science at the Department of Network and Data Science.\nMy interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.\nI work under the supervision of Tiago P. Peixoto on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria."
+  },
+  {
+    "objectID": "index.html#previous-affiliations",
+    "href": "index.html#previous-affiliations",
+    "title": "Thomas Robiglio",
+    "section": "Previous affiliations:",
+    "text": "Previous affiliations:\n\nCentre de Physique Théorique, Marseille, FRA. Alain Barrat and Mathieu Génois.\nNPL group at CENTAI, ISI Foundation, Torino, ITA. Giovanni Petri.\nDept. of Physics, UniTO, Torino, ITA. Matteo Osella."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
