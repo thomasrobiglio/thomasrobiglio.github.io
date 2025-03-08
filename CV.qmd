@@ -50,8 +50,5 @@ Assisted senior research scientist Dr. Giovanni Petri in the study of high-order
 ## Software
 
 - **[XGI](https://xgi.readthedocs.io/en/stable/)**: CompleX Group Interactions - a Python package for higher-order networks.  
-- **[HOI](https://brainets.github.io/hoi/)**: A Python package for higher-order information theory, optimized using JAX.  
-
-## Other stuff
-- I'm addicted to cycling: cycling myself and watching/studying/having strong opinions about professional cycling
+- **[HOI](https://brainets.github.io/hoi/)**: A Python package for higher-order information theory, optimized using JAX.
 
