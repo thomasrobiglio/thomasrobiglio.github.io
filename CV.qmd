@@ -53,5 +53,5 @@ Assisted senior research scientist Dr. Giovanni Petri in the study of high-order
 - **[HOI](https://brainets.github.io/hoi/)**: A Python package for higher-order information theory, optimized using JAX.  
 
 ## Other stuff
-**I'm addicted to cycling:** cycling myself and *watching/studying/having strong opinions about* professional cycling
+**I'm addicted to cycling:** cycling myself and *watching/having strong opinions about* professional cycling
 
