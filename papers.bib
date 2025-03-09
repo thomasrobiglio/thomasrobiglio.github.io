@@ -1,44 +1,26 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
 @article{Neri2024,
 doi = {10.21105/joss.07360},
 url = {https://doi.org/10.21105/joss.07360},
 year = {2024},
 publisher = {The Open Journal},
-volume = {9}, number = {103},
+volume = {9}, 
+number = {103},
 pages = {7360},
 author = {Matteo Neri and Dishie Vinchhi and Christian Ferreyra and Thomas Robiglio and Onur Ates and Marlis Ontivero-Ortega and Andrea Brovelli and Daniele Marinazzo and Etienne Combrisson},
 title = {HOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data},
 journal = {Journal of Open Source Software},
-abstract = {HOI (Higher-Order Interactions) is a Python toolbox to measure higher-order information theoretic metrics from multivariate data. Higher-order interactions refer to interactions that go beyond pairwise connections between nodes in a network (Battiston et al., 2021; Baudot et al., 2019; Gatica et al., 2021; Herzog et al., 2022; Luppi et al., 2024; Rosas et al., 2019). The HOI toolbox provides easy-to-use information theoretical metrics to estimate pairwise and higher-order information from multivariate data. The toolbox contains cutting-edge methods, along with core entropy and mutual information functions, which serve as building blocks for all metrics. In this way, HOI is accessible both to scientists with basic Python knowledge using pre-implemented functions and to experts who wish to develop new metrics on top of the core functions. Moreover, the toolbox supports computation on CPUs and GPUs. Finally, HOI provides tools for visualizing and presenting results to simplify the interpretation and analysis of the outputs.},
-pdf={10.21105.joss.07360.pdf},
-bibtex_show={true},
-preview={hoi-logo.png}
-
-
 }
 
 @article{robiglio2024synergistic,
-bibtex_show={true},
       title={Synergistic signatures of group mechanisms in higher-order systems}, 
       author={Thomas Robiglio and Matteo Neri and Davide Coppes and Cosimo Agostinelli and Federico Battiston and Maxime Lucas and Giovanni Petri},
       year={2024},
       eprint={2401.11588},
       archivePrefix={arXiv},
       primaryClass={physics.soc-ph},
-abstract= {The interplay between causal mechanisms and emerging collective behaviors is a central aspect of the understanding, control, and prediction of complex networked systems. Here we study this interplay in the context of higher-order mechanisms and behaviors in two representative models: a simplicial Ising model and a simplicial social contagion model. In both systems, we find that group (higher-order) interactions show emergent synergistic (higher-order) behavior. The emergent synergy appears only at the group level and depends in a complex non-linear way on the tradeoff between the strengths of the low- and higher-order mechanisms, and is invisible to low-order behavioral observables. Finally, we present a simple method to detect higher-order mechanisms by using this signature.},
-preview={preview_mechabehav.png},
-pdf={2401.11588.pdf}
 }
 
 @article{simpliciallyDriven,
-  bibtex_show={true},
-  selected={true}, 
-  preview={simplagion.jpg},
-  pdf={PhysRevResearch.5.013201.pdf}, 
   title = {Simplicially driven simple contagion},
   author = {Lucas, Maxime and Iacopini, Iacopo and Robiglio, Thomas and Barrat, Alain and Petri, Giovanni},
   journal = {Phys. Rev. Res.},
@@ -50,38 +32,14 @@ pdf={2401.11588.pdf}
   month = {Mar},
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevResearch.5.013201},
-  url = {https://link.aps.org/doi/10.1103/PhysRevResearch.5.013201},
-abstract = {Single contagion processes are known to display a continuous transition from an epidemic-free phase at low contagion rates to the epidemic state for rates above a critical threshold. This transition can become discontinuous when two simple contagion processes are coupled in a bi-directional symmetric way. However, in many cases, the coupling is not symmetric and the processes can be of a different nature. For example, social behaviors -- such as hand-washing or mask-wearing -- can affect the spread of a disease, and their adoption dynamics via social reinforcement mechanisms are better described by complex contagion models, rather than by the simple contagion paradigm, which is more appropriate for disease spreading phenomena. Motivated by this example, we consider a simplicial contagion (describing the adoption of a behavior) that uni-directionally drives a simple contagion (describing a disease propagation). We show that, above a critical driving strength, such driven simple contagion can exhibit both discontinuous transitions and bi-stability, which are instead absent in standard simple contagions. We provide a mean-field analytical description of the phase diagram of the system, and complement the results with Markov-chain simulations. Our results provide a novel route for a simple contagion process to display the phenomenology of a higher-order contagion, through a driving mechanism that may be hidden or unobservable in many practical instances.}
 }
 
-@mastersthesis{robiglio2021,
-title = "Interacting contagion models on simplicial complexes",
-author = "Robiglio, T.",
-year = "2021",
-month = "July",
-language = "Italian",
-school = "Universit a degli Studi di Torino",
-preview={preview_thesis.png},
-pdf={tesi_presentazione_robiglio.pdf},
-abstract = {Complex networks are currently used to study diffusion phenomena of various types: the collective manifestation of a disease, the adoption of a trend or the circulation of news - in populations of agents that interact with each other. In the most common models, only pairwise contacts between the agents represented by the links of the network are considered. However group dynamics play an important role in social contagion phenomena. These dynamics can be studied by introducing contagion routes linked to higher-order structures in the network. The presence and interaction of different pathogens within the same population constitutes is non-negligible in the study of real contagion phenomena: the comorbidity between two infections, the competition between different strains of the same disease or the influence of social behaviors (e.g. prevention policies or risky behaviors by agents) can significantly modify the epidemic dynamics of the system and show phenomenologies unobserved if the interaction is neglected. In this thesis a SIS model of contagion on simplicial complexes is developed and, with a mean-field approach and through simulations, we analyze the consequences of the interaction (collaborative or competitive) between two pathogens.}}
-
-
-@mastersthesis{robiglio2023,
-title = "Higher-order structures in face-to-face interaction networks",
-author = "Robiglio, T.",
-year = "2023",
-month = "July",
-language = "English",
-school = "Politecnico di Torino, Sorbonne Université",
-preview={preview_msc_thesis.png},
-pdf={MSc_thesis.pdf},
-abstract = {Face-to-face interactions in human gatherings have a significant impact in various contexts, including disease spreading and opinion dynamics. 
-In this thesis, we investigate the temporal properties of group interactions in different settings using data recorded using the SocioPatterns platform. 
-Our analysis focuses on higher-order structures, revealing that the distributions of group durations exhibit large tails, indicating the absence of a typical time scale for higher-order interactions in human gatherings.
-By examining the accompanying metadata associated with the contact data, we explore the role of homophily, which refers to the tendency of individuals to interact with others with whom share similar attributes, in face-to-face interactions. 
-Interestingly, our findings demonstrate that the presence of higher-order homophily is possible even in social settings where the corresponding low-order homophily is absent.
-To better understand these dynamics, we present a simple model for human face-to-face interactions. 
-This initial model fails to accurately reproduce the higher-order temporal statistics observed in the data. 
-As a solution, we present a modified version of the model that successfully captures both levels of the empirical temporal statistics.
-The insights gained from this research provide a valuable foundation for future studies aiming to uncover the fundamental properties of human interactions. 
-The exploration of higher-order structures and homophily holds great potential in deepening our understanding of the complex dynamics inherent in face-to-face interactions.}}
+@misc{robiglio2024higherorderisingmodelhypergraphs,
+      title={Higher-order Ising model on hypergraphs}, 
+      author={Thomas Robiglio and Leonardo Di Gaetano and Ada Altieri and Giovanni Petri and Federico Battiston},
+      year={2024},
+      eprint={2411.19618},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.stat-mech},
+      url={https://arxiv.org/abs/2411.19618}, 
+}

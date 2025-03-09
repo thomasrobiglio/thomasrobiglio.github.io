@@ -7,8 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - CV.qmd
+      - publications.qmd
   announcement: 
     icon: info-circle
     dismissable: true

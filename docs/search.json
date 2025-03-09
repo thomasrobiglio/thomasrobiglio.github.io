@@ -42,6 +42,13 @@
     "text": "Other stuff\nI’m addicted to cycling: cycling myself and watching/having strong opinions about professional cycling"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Neri, M., Vinchhi, D., Ferreyra, C., Robiglio, T., Ates, O., Ontivero-Ortega, M., Brovelli, A., Marinazzo, D., & Combrisson, E. (2024). HOI: A python toolbox for high-performance estimation of higher-order interactions from multivariate data. Journal of Open Source Software, 9(103), 7360. https://doi.org/10.21105/joss.07360\n\n\nRobiglio, T., Gaetano, L. D., Altieri, A., Petri, G., & Battiston, F. (2024). Higher-order ising model on hypergraphs. https://arxiv.org/abs/2411.19618\n\n\nRobiglio, T., Neri, M., Coppes, D., Agostinelli, C., Battiston, F., Lucas, M., & Petri, G. (2024). Synergistic signatures of group mechanisms in higher-order systems. https://arxiv.org/abs/2401.11588\n\n\nLucas, M., Iacopini, I., Robiglio, T., Barrat, A., & Petri, G. (2023). Simplicially driven simple contagion. Phys. Rev. Res., 5, 013201. https://doi.org/10.1103/PhysRevResearch.5.013201"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Thomas Robiglio",

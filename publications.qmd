@@ -1,4 +1,13 @@
 ---
 title: "Publications"
 bibliography: papers.bib
+csl: apa-cv.csl
 ---
+
+---
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::
