@@ -20,8 +20,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
     mainfont: Georgia, serif;
     css: styles.css
     toc: true
