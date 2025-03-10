@@ -47,7 +47,7 @@ Do not hesitate to contact me for *questions/comments/ideas*, to discuss cycling
 
 ### News
 <div style="height:170px;overflow:scroll;padding:5px;">
-**28/02/2025** - I gave a [talk](pdf/presentation_namur_28Feb.pdf) at the [Namur Institute for complex systems](https://www.naxys.be).
+**28/02/2025** - I gave a [talk](pdf/presentation_namur_28Feb.pdf) at the [Namur Institute for Complex Systems](https://www.naxys.be).
 
 **30/01/2025** - Our manuscript "Synergistic signatures of group mechanisms in higher-order systems" has been accepted in Physical Review Letters.
 
