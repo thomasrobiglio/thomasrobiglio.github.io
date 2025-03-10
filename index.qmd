@@ -33,7 +33,7 @@ about:
 :::{#hero-heading}
 **Hello there!**
 
-I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/). I am also completing a MPhil. in Network Science at the [Department of Network and Data Science](https://www.ceu.edu/unit/dnds).
+I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/). I am also completing a MPhil. in Network Science at the [Department of Network and Data Science](https://www.ceu.edu/unit/dnds) at CEU.
 
 My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on [inferential methods](https://skewed.de/lab/research.html) and higher-order systems.
 
