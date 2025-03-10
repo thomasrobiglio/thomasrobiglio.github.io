@@ -22,6 +22,7 @@ format:
     theme:
       - cosmo
       - brand
+    mainfont: Georgia, serif;
     css: styles.css
     toc: true
 

@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 ## Education
 
 ### IT:U - Austria
-**PhD in Complex Systems and Network Science** *(October 2025 - Present)* 
+**PhD in Complex Systems and Network Science** *(October 2025 - Present)*<br />
 **Thesis:** *"Internal migrations in Austria: modeling and inference of temporal graphs"*  
 **Supervisors:** Prof. T. P. Peixoto
 
@@ -16,13 +16,13 @@ title: "Curriculum Vitae"
 **Master of Science in Physics of Complex Systems** *(September 2021 - July 2023)*    
 **Thesis:** *"Higher-order structures in face-to-face interaction networks"*  
 **Supervisors:** Prof. A. Barrat, Prof. M. Génois, Prof. L. Dall'Asta  
-**International Track** *(Graduated 28 July 2023)*  
+**International Track**  
 
 ### Università degli Studi di Torino  
 **Bachelor in Physical Science and Technology** *(September 2018 - July 2021)*  
 **Thesis:** *"Interacting contagion models on simplicial complexes"*  
 **Supervisors:** Prof. M. Osella, Dr. G. Petri  
-**Department of Physics** *(Graduated 20 July 2021)*  
+**Department of Physics**  
 
 ## Experience
 

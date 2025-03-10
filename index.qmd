@@ -1,38 +1,40 @@
 ---
 title: "Thomas Robiglio"
 subtitle: "[Inverse Complexity Lab](https://skewed.de/lab/)"
-image: "pictures/MD00637.jpg"
+image: "pictures/MD00653.jpg"
 
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 65%
   links:
-    - icon: envelope
-      text: E-mail
+    - text: "{{< iconify material-symbols-light mail-outline>}}"
       href: mailto:robigliothomas@gmail.com
-    - icon: github
-      text: GitHub
+
+    - text: "{{< iconify fa6-brands github >}}"
       href: https://github.com/thomasrobiglio
-    - icon: linkedin
-      text: LinkedIn
+    
+    - text: "{{< iconify fa6-brands linkedin >}}"
       href: https://www.linkedin.com/in/thomas-robiglio-04088822b
-    - icon: google scholar
-      text: Google Scholar
+    
+    - text: "{{< ai google-scholar >}}"
       href: https://scholar.google.com/citations?user=uea_f2MAAAAJ
-    - icon: twitter
-      text: Twitter
+    
+    - text: "{{< iconify fa6-brands x-twitter >}}"
       href: https://twitter.com/thomrobiglio
-    - icon: strava
-      text: Strava
+    
+    - text: "{{< iconify fa6-brands bluesky >}}"
+      href: https://bsky.app/profile/thomrobiglio.bsky.social
+
+    - text: "{{< iconify fa6-brands strava >}}"
       href: https://www.strava.com/athletes/28994784
     
 ---
 
 :::{#hero-heading}
-Hello there!
+**Hello there!**
 
-I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/). I am moving my first steps into graduate studies and research. I am also completing a MPhil. in Network Science at the [Department of Network and Data Science](https://www.ceu.edu/unit/dnds).
+I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/). I am also completing a MPhil. in Network Science at the [Department of Network and Data Science](https://www.ceu.edu/unit/dnds).
 
 My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on [inferential methods](https://skewed.de/lab/research.html) and higher-order systems.
 
