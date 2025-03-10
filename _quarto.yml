@@ -22,7 +22,7 @@ format:
     theme:
       light: cosmo
       dark: [cosmo, theme-dark.scss]
-    mainfont: Georgia, serif;
+    mainfont: Computer Modern, serif;
     css: styles.css
     toc: true
 
