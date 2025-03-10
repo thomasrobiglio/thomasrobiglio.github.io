@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 bibliography: papers.bib
-csl: cv.csl
+csl: apa-cv.csl
 ---
 
 ---

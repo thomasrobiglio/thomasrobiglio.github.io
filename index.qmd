@@ -1,7 +1,7 @@
 ---
 title: "Thomas Robiglio"
 subtitle: "[Inverse Complexity Lab](https://skewed.de/lab/)"
-image: "pictures/MD00653.jpg"
+image: "pictures/image73.png"
 
 about:
   id: hero-heading
