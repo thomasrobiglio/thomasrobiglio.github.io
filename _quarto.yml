@@ -13,7 +13,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "I'm in the slow process of updating this website, please bear with me."
+    content: "I'm slowly updating this website—please bear with me."
     type: primary
     position: below-navbar
 
