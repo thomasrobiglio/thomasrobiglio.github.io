@@ -41,9 +41,17 @@ I work under the supervision of [Tiago P. Peixoto](https://skewed.de/tiago/) on 
 :::
 
 ### News
-28/02/2025 - I gave a [talk](pdf/presentation_namur_28Feb.pdf) at the [Namur Institute for complex systems](https://www.naxys.be)
+<div style="height:170px;overflow:scroll;padding:5px;">
+**28/02/2025** - I gave a [talk](pdf/presentation_namur_28Feb.pdf) at the [Namur Institute for complex systems](https://www.naxys.be).
 
-### Previous affiliations:
+**30/01/2025** - Our manuscript "Synergistic signatures of group mechanisms in higher-order systems" has been accepted in Physical Review Letters.
+
+**07/06/2024** - Today I have passed my comprehensive exam, succesfully defending my [PhD thesis research proposal](pdf/robiglio_research_proposal.pdf)! (you can also check the [material](pdf/seminar_talk_08may2024.pdf) from my recent departmental seminar talk about it)
+
+
+</div>
+
+### Previous affiliations and supervisors
 * [Centre de Physique Théorique](https://www.cpt.univ-mrs.fr), Marseille, France. [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/) and Mathieu Génois.
 * [NPL group](https://nplresearch.github.io) at CENTAI, [ISI Foundation](https://www.isi.it), Torino, Italy. [Giovanni Petri](https://lordgrilo.github.io).
 * Dept. of Physics, UniTO, Torino, Italy. Matteo Osella.
