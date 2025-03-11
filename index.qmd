@@ -35,6 +35,10 @@ about:
     - text: "{{< iconify fa6-brands strava >}}"
       aria-label: "Strava"
       href: https://www.strava.com/athletes/28994784
+
+format:
+  html:
+    css: index.css
 ---
 
 :::{#hero-heading}
