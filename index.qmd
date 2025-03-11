@@ -9,24 +9,31 @@ about:
   image-width: 65%
   links:
     - text: "{{< iconify material-symbols-light mail-outline>}}"
+      aria-label: "Mail"
       href: mailto:robigliothomas@gmail.com
 
     - text: "{{< iconify fa6-brands github >}}"
+      aria-label: "GitHub"
       href: https://github.com/thomasrobiglio
     
     - text: "{{< iconify fa6-brands linkedin >}}"
+      aria-label: "LinkedIn"
       href: https://www.linkedin.com/in/thomas-robiglio-04088822b
     
     - text: "{{< ai google-scholar >}}"
+      aria-label: "Google Scholar"
       href: https://scholar.google.com/citations?user=uea_f2MAAAAJ
     
     - text: "{{< iconify fa6-brands x-twitter >}}"
+      aria-label: "X"
       href: https://twitter.com/thomrobiglio
     
     - text: "{{< iconify fa6-brands bluesky >}}"
+      aria-label: "BlueSky"
       href: https://bsky.app/profile/thomrobiglio.bsky.social
 
     - text: "{{< iconify fa6-brands strava >}}"
+      aria-label: "Strava"
       href: https://www.strava.com/athletes/28994784
 ---
 
