@@ -20,7 +20,7 @@ website:
 format:
   html:
     theme:
-      light: cosmo
+      light: [cosmo, theme-light.scss]
       dark: [cosmo, theme-dark.scss]
     mainfont: Computer Modern, serif;
     css: styles.css
