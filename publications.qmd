@@ -1,15 +1,26 @@
 ---
 title: "Publications"
-bibliography: papers.bib
-csl: apa-cv.csl
 ---
 
----
-nocite: |
-  @*
----
+## Pre-prints
 
+1. Higher-order Ising model on hypergraphs<br />
+    Thomas Robiglio, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri and Federico Battiston<br />
+    🔗 [arXiv: 2411.19618](https://arxiv.org/abs/2411.19618)<br />
 
+2. Synergistic signatures of group mechanisms in higher-order systems<br />
+    Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas and Giovanni Petri<br />
+    🔗 [arXiv: 2401.11588](https://arxiv.org/abs/2401.11588)<br />
 
-::: {#refs}
-:::
+## Journal Papers
+
+1. Simplicially driven simple contagion<br />
+    Maxime Lucas, Iacopo Iacopini, Thomas Robiglio, Alain Barrat and Giovanni Petri<br />
+    *Phys. Rev. Res.*<br />
+    DOI: [10.1103/PhysRevResearch.5.013201](https://doi.org/10.1103/PhysRevResearch.5.013201)<br />
+
+2. HOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data<br />
+    Matteo Neri, Dishie Vinchhi, Christian Ferreyra, Thomas Robiglio, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo and Etienne Combrisson<br />
+    *Journal of Open Source Software*<br />
+    DOI: [10.21105/joss.07360](https://doi.org/10.21105/joss.07360)<br />
+

@@ -53,6 +53,20 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Neri, M., Vinchhi, D., Ferreyra, C., Robiglio, T., Ates, O., Ontivero-Ortega, M., Brovelli, A., Marinazzo, D., & Combrisson, E. (2024). HOI: A python toolbox for high-performance estimation of higher-order interactions from multivariate data. Journal of Open Source Software, 9(103), 7360. https://doi.org/10.21105/joss.07360\n\n\nRobiglio, T., Di Gaetano, L., Altieri, A., Petri, G., & Battiston, F. (2024). Higher-order ising model on hypergraphs. https://arxiv.org/abs/2411.19618\n\n\nRobiglio, T., Neri, M., Coppes, D., Agostinelli, C., Battiston, F., Lucas, M., & Petri, G. (2024). Synergistic signatures of group mechanisms in higher-order systems. https://arxiv.org/abs/2401.11588\n\n\nLucas, M., Iacopini, I., Robiglio, T., Barrat, A., & Petri, G. (2023). Simplicially driven simple contagion. Phys. Rev. Res., 5, 013201. https://doi.org/10.1103/PhysRevResearch.5.013201"
+    "text": "Higher-order Ising model on hypergraphs Thomas Robiglio, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri and Federico Battiston 🔗 arXiv: 2411.19618\nSynergistic signatures of group mechanisms in higher-order systems Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas and Giovanni Petri 🔗 arXiv: 2401.11588"
+  },
+  {
+    "objectID": "publications.html#pre-prints",
+    "href": "publications.html#pre-prints",
+    "title": "Publications",
+    "section": "",
+    "text": "Higher-order Ising model on hypergraphs Thomas Robiglio, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri and Federico Battiston 🔗 arXiv: 2411.19618\nSynergistic signatures of group mechanisms in higher-order systems Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas and Giovanni Petri 🔗 arXiv: 2401.11588"
+  },
+  {
+    "objectID": "publications.html#journal-papers",
+    "href": "publications.html#journal-papers",
+    "title": "Publications",
+    "section": "Journal Papers",
+    "text": "Journal Papers\n\nSimplicially driven simple contagion Maxime Lucas, Iacopo Iacopini, Thomas Robiglio, Alain Barrat and Giovanni Petri Phys. Rev. Res. DOI: 10.1103/PhysRevResearch.5.013201\nHOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data Matteo Neri, Dishie Vinchhi, Christian Ferreyra, Thomas Robiglio, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo and Etienne Combrisson Journal of Open Source Software DOI: 10.21105/joss.07360"
   }
 ]
