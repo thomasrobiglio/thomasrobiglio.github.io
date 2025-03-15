@@ -18,7 +18,7 @@ def format_authors(author_str):
         formatted_authors.append(full_name)
     
     if len(formatted_authors) > 1:
-        return ', '.join(formatted_authors[:-1]) + ' and ' + formatted_authors[-1]
+        return ', '.join(formatted_authors[:-1]) + ', and ' + formatted_authors[-1]
     return formatted_authors[0]
 
 def parse_bibtex(bib_file):
