@@ -4,23 +4,24 @@ title: "Publications"
 
 ## Pre-prints
 
-1. Higher-order Ising model on hypergraphs<br />
-    Thomas Robiglio, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri and Federico Battiston<br />
-    🔗 [arXiv: 2411.19618](https://arxiv.org/abs/2411.19618)<br />
+A) Synergistic signatures of group mechanisms in higher-order systems<br />
+    <u>Thomas Robiglio</u>, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas and Giovanni Petri<br />
+    [![arXiv](https://img.shields.io/badge/arXiv-2401.11588-b31b1b.svg)](https://arxiv.org/abs/2401.11588)<br />
 
-2. Synergistic signatures of group mechanisms in higher-order systems<br />
-    Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas and Giovanni Petri<br />
-    🔗 [arXiv: 2401.11588](https://arxiv.org/abs/2401.11588)<br />
+B) Higher-order Ising model on hypergraphs<br />
+    <u>Thomas Robiglio</u>, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri and Federico Battiston<br />
+    [![arXiv](https://img.shields.io/badge/arXiv-2411.19618-b31b1b.svg)](https://arxiv.org/abs/2411.19618)<br />
 
-## Journal Papers
+## Journal articles
 
-1. Simplicially driven simple contagion<br />
-    Maxime Lucas, Iacopo Iacopini, Thomas Robiglio, Alain Barrat and Giovanni Petri<br />
-    *Phys. Rev. Res.*<br />
-    DOI: [10.1103/PhysRevResearch.5.013201](https://doi.org/10.1103/PhysRevResearch.5.013201)<br />
-
-2. HOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data<br />
-    Matteo Neri, Dishie Vinchhi, Christian Ferreyra, Thomas Robiglio, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo and Etienne Combrisson<br />
+<ol reversed><li> HOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data<br />
+    Matteo Neri, Dishie Vinchhi, Christian Ferreyra, <u>Thomas Robiglio</u>, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo and Etienne Combrisson<br />
     *Journal of Open Source Software*<br />
-    DOI: [10.21105/joss.07360](https://doi.org/10.21105/joss.07360)<br />
-
+    <a href="https://doi.org/10.21105/joss.07360"><img src="https://img.shields.io/badge/DOI-10.21105/joss.07360-blue.svg"></a><br />
+</li> <br />
+<li> Simplicially driven simple contagion<br />
+    Maxime Lucas, Iacopo Iacopini, <u>Thomas Robiglio</u>, Alain Barrat and Giovanni Petri<br />
+    *Phys. Rev. Res.*<br />
+    <a href="https://doi.org/10.1103/PhysRevResearch.5.013201"><img src="https://img.shields.io/badge/DOI-10.1103/PhysRevResearch.5.013201-blue.svg"></a><br />
+</li> <br />
+</ol>
