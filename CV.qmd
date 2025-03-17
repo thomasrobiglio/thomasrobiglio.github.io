@@ -7,7 +7,7 @@ title: "Curriculum Vitae"
 ### IT:U - Austria
 **PhD in Complex Systems and Network Science** *(October 2025 - Present)*<br />
 **Thesis:** *"Internal migrations in Austria: modeling and inference of temporal graphs"*  
-**Supervisors:** Prof. T. P. Peixoto
+**Supervisor:** Prof. T. P. Peixoto
 
 ### Central European University  
 **Master of Philosophy in Network Science** *(September 2023 - Present)*    
