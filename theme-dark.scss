@@ -1,8 +1,13 @@
 /*-- scss:defaults --*/
-// Base document colors
+
 $body-bg:#121212;
 $body-color: #E0E0E0;
 $link-color: #75AADB;
+
+//links
+a:link { 
+  text-decoration: none; 
+} 
 
 // Code blocks
 $code-block-bg-alpha: -.8;
