@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Synergistic signatures of group mechanisms in higher-order systems Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri \nHigher-order Ising model on hypergraphs Thomas Robiglio, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri, and Federico Battiston"
+  },
+  {
+    "objectID": "publications.html#pre-prints",
+    "href": "publications.html#pre-prints",
+    "title": "Publications",
+    "section": "",
+    "text": "Synergistic signatures of group mechanisms in higher-order systems Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri \nHigher-order Ising model on hypergraphs Thomas Robiglio, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri, and Federico Battiston"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\nHOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data Matteo Neri, Dishie Vinchhi, Christian Ferreyra, Thomas Robiglio, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo, and Etienne Combrisson Journal of Open Source Software \n\n\n\nSimplicially driven simple contagion Maxime Lucas, Iacopo Iacopini, Thomas Robiglio, Alain Barrat, and Giovanni Petri Phys. Rev. Res."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thomas Robiglio",
+    "section": "",
+    "text": "Hello there!\nI am a PhD student in Complex Systems and Network Science at IT:U, Interdisciplinary Transformation University - Austria. I am also completing a MPhil. in Network Science at the Department of Network and Data Science at CEU.\nMy interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.\nI work under the supervision of Tiago P. Peixoto on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria.\n\n\n\n\n\n\nGet in touch!\n\n\n\nDo not hesitate to contact me for questions/comments/ideas, to discuss cycling, or just to say hi!\n\n\n\n\n\n\nNews\n\n28/02/2025 - I gave a talk at the Namur Institute for Complex Systems.\n30/01/2025 - Our manuscript “Synergistic signatures of group mechanisms in higher-order systems” has been accepted in Physical Review Letters.\n07/06/2024 - Today I have passed my comprehensive exam, succesfully defending my PhD thesis research proposal! (you can also check the material from my recent departmental seminar talk about it)\n\n\n\nPrevious affiliations and supervisors\n\nCentre de Physique Théorique, Marseille, France. Alain Barrat and Mathieu Génois.\nNPL group at CENTAI, ISI Foundation, Torino, Italy. Giovanni Petri.\nDept. of Physics, UniTO, Torino, Italy. Matteo Osella."
+  },
+  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Curriculum Vitae",
@@ -40,33 +68,5 @@
     "title": "Curriculum Vitae",
     "section": "Other stuff",
     "text": "Other stuff\nI’m addicted to cycling: cycling myself and watching/having strong opinions about professional cycling"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Thomas Robiglio",
-    "section": "",
-    "text": "Hello there!\nI am a PhD student in Complex Systems and Network Science at IT:U, Interdisciplinary Transformation University - Austria. I am also completing a MPhil. in Network Science at the Department of Network and Data Science at CEU.\nMy interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.\nI work under the supervision of Tiago P. Peixoto on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria.\n\n\n\n\n\n\nGet in touch!\n\n\n\nDo not hesitate to contact me for questions/comments/ideas, to discuss cycling, or just to say hi!\n\n\n\n\n\n\nNews\n\n28/02/2025 - I gave a talk at the Namur Institute for Complex Systems.\n30/01/2025 - Our manuscript “Synergistic signatures of group mechanisms in higher-order systems” has been accepted in Physical Review Letters.\n07/06/2024 - Today I have passed my comprehensive exam, succesfully defending my PhD thesis research proposal! (you can also check the material from my recent departmental seminar talk about it)\n\n\n\nPrevious affiliations and supervisors\n\nCentre de Physique Théorique, Marseille, France. Alain Barrat and Mathieu Génois.\nNPL group at CENTAI, ISI Foundation, Torino, Italy. Giovanni Petri.\nDept. of Physics, UniTO, Torino, Italy. Matteo Osella."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Synergistic signatures of group mechanisms in higher-order systems Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri \nHigher-order Ising model on hypergraphs Thomas Robiglio, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri, and Federico Battiston"
-  },
-  {
-    "objectID": "publications.html#pre-prints",
-    "href": "publications.html#pre-prints",
-    "title": "Publications",
-    "section": "",
-    "text": "Synergistic signatures of group mechanisms in higher-order systems Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri \nHigher-order Ising model on hypergraphs Thomas Robiglio, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri, and Federico Battiston"
-  },
-  {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "Journal articles",
-    "text": "Journal articles\n\n\nHOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data Matteo Neri, Dishie Vinchhi, Christian Ferreyra, Thomas Robiglio, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo, and Etienne Combrisson Journal of Open Source Software \n\n\n\nSimplicially driven simple contagion Maxime Lucas, Iacopo Iacopini, Thomas Robiglio, Alain Barrat, and Giovanni Petri Phys. Rev. Res."
   }
 ]

@@ -31,7 +31,7 @@ title: "Curriculum Vitae"
 **Internship Student**  
 Worked under the supervision of Prof. Alain Barrat and Prof. Mathieu Génois on the statistical analysis and mathematical modeling of face-to-face interactions in human gatherings.
 
-### CENTAI Institute 
+### [CENTAI Institute](https://centai.eu/home) 
 *February 2023 - September 2023*  
 **Visiting Student**  
 Worked under the supervision of Prof. Giovanni Petri on the relation between mechanism and behavior in complex systems with higher-order interactions.
