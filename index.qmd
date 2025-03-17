@@ -48,7 +48,7 @@ I am a PhD student in Complex Systems and Network Science at [IT:U, Interdiscipl
 
 My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on [inferential methods](https://skewed.de/lab/research.html) and higher-order systems.
 
-I work under the supervision of [Tiago P. Peixoto](https://skewed.de/tiago/) on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of [internal migrations in Austria](https://moma.science).
+I work under the supervision of [Tiago P. Peixoto](https://skewed.de/lab/contact.html) on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of [internal migrations in Austria](https://moma.science).
 
 ::: {.callout-tip title="Get in touch!"}
 Do not hesitate to contact me for *questions/comments/ideas*, to discuss cycling, or just to say hi!
