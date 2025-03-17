@@ -13,7 +13,7 @@ title: "Curriculum Vitae"
 **Master of Philosophy in Network Science** *(September 2023 - Present)*    
 
 ### PoliTO, SISSA, ICPT, UdP, Paris-Saclay, Sorbonne  
-**Master of Science in Physics of Complex Systems** *(September 2021 - July 2023)*    
+[**Master of Science in Physics of Complex Systems**](https://physics-complex-systems.fr/en/) *(September 2021 - July 2023)*    
 **Thesis:** *"Higher-order structures in face-to-face interaction networks"*  
 **Supervisors:** Prof. A. Barrat, Prof. M. Génois, Prof. L. Dall'Asta  
 **International Track**  
@@ -31,12 +31,12 @@ title: "Curriculum Vitae"
 **Internship Student**  
 Worked under the supervision of Prof. Alain Barrat and Prof. Mathieu Génois on the statistical analysis and mathematical modeling of face-to-face interactions in human gatherings.
 
-### [CENTAI Institute](https://centai.eu/home) 
+### [**CENTAI Institute**](https://centai.eu/home) 
 *February 2023 - September 2023*  
 **Visiting Student**  
 Worked under the supervision of Prof. Giovanni Petri on the relation between mechanism and behavior in complex systems with higher-order interactions.
 
-### ISI Foundation 
+### [**ISI Foundation**](https://www.isi.it/) 
 *April 2021 - July 2021*  
 **Student**  
 Assisted senior research scientist Dr. Giovanni Petri in the study of high-order interactions and spreading phenomena on simplicial complexes. The results of this work are the focus of my undergraduate thesis.
@@ -49,8 +49,8 @@ Assisted senior research scientist Dr. Giovanni Petri in the study of high-order
 
 ## Software
 
-- **[XGI](https://xgi.readthedocs.io/en/stable/)**: CompleX Group Interactions - a Python package for higher-order networks.  
-- **[HOI](https://brainets.github.io/hoi/)**: A Python package for higher-order information theory, optimized using JAX.  
+- [**XGI**](https://xgi.readthedocs.io/en/stable/): CompleX Group Interactions - a Python package for higher-order networks.  
+- [**HOI**](https://brainets.github.io/hoi/): A Python package for higher-order information theory, optimized using JAX.  
 
 ## Other stuff
 **I'm addicted to cycling:** cycling myself and *watching/having strong opinions about* professional cycling
