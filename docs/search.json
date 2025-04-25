@@ -21,13 +21,6 @@
     "text": "Journal articles\n\n\nSynergistic Signatures of Group Mechanisms in Higher-Order Systems Thomas Robiglio, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri Phys. Rev. Lett. \n\n\n\nHOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data Matteo Neri, Dishie Vinchhi, Christian Ferreyra, Thomas Robiglio, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo, and Etienne Combrisson Journal of Open Source Software \n\n\n\nSimplicially driven simple contagion Maxime Lucas, Iacopo Iacopini, Thomas Robiglio, Alain Barrat, and Giovanni Petri Phys. Rev. Res."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Thomas Robiglio",
-    "section": "",
-    "text": "Hello there!\n\nI am a PhD student in Complex Systems and Network Science at IT:U, Interdisciplinary Transformation University - Austria. I am also completing a MPhil. in Network Science at the Department of Network and Data Science at CEU.\n\n\nMy interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.\n\n\nI work under the supervision of Tiago P. Peixoto on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria.\n\n\n\n\n\n\n\nGet in touch!\n\n\n\nDo not hesitate to contact me for questions/comments/ideas, to discuss cycling, or just to say hi!\n\n\n\n\n\n\nNews\n\n31/03/2025 - Our article “Synergistic Signatures of Group Mechanisms in Higher-Order Systems” has been published in PRL as an Editors’ suggestion. Our work is also featured in Physics.\n28/02/2025 - I gave a talk at the Namur Institute for Complex Systems.\n30/01/2025 - Our manuscript “Synergistic signatures of group mechanisms in higher-order systems” has been accepted in Physical Review Letters.\n07/06/2024 - Today I have passed my comprehensive exam, succesfully defending my PhD thesis research proposal! (you can also check the material from my recent departmental seminar talk about it)\n\n\n\nPrevious affiliations and supervisors\n\nCentre de Physique Théorique, Marseille, France. Alain Barrat and Mathieu Génois.\nNPL group at CENTAI, ISI Foundation, Torino, Italy. Giovanni Petri.\nDept. of Physics, UniTO, Torino, Italy. Matteo Osella."
-  },
-  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Curriculum Vitae",
@@ -68,5 +61,33 @@
     "title": "Curriculum Vitae",
     "section": "Other stuff",
     "text": "Other stuff\nI’m addicted to cycling: cycling myself and watching/having strong opinions about professional cycling"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thomas Robiglio",
+    "section": "",
+    "text": "Hello there!\n\nI am a PhD student in Complex Systems and Network Science at IT:U, Interdisciplinary Transformation University - Austria. I am also completing a MPhil. in Network Science at the Department of Network and Data Science at CEU.\n\n\nMy interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on inferential methods and higher-order systems.\n\n\nI work under the supervision of Tiago P. Peixoto on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of internal migrations in Austria.\n\n\n\n\n\n\n\nGet in touch!\n\n\n\nDo not hesitate to contact me for questions/comments/ideas, to discuss cycling, or just to say hi!\n\n\n\n\n\n\nNews\n\n31/03/2025 - Our article “Synergistic Signatures of Group Mechanisms in Higher-Order Systems” has been published in PRL as an Editors’ suggestion. Our work is also featured in Physics.\n28/02/2025 - I gave a talk at the Namur Institute for Complex Systems.\n30/01/2025 - Our manuscript “Synergistic signatures of group mechanisms in higher-order systems” has been accepted in Physical Review Letters.\n07/06/2024 - Today I have passed my comprehensive exam, succesfully defending my PhD thesis research proposal! (you can also check the material from my recent departmental seminar talk about it)\n\n\n\nPrevious affiliations and supervisors\n\nCentre de Physique Théorique, Marseille, France. Alain Barrat and Mathieu Génois.\nNPL group at CENTAI, ISI Foundation, Torino, Italy. Giovanni Petri.\nDept. of Physics, UniTO, Torino, Italy. Matteo Osella."
+  },
+  {
+    "objectID": "readings.html",
+    "href": "readings.html",
+    "title": "Readings",
+    "section": "",
+    "text": "This page is mostly for personal use, to keep track of the books I read or want to read. Commuting between Vienna and Linz I’ve found myself reading a lot.\nThese are mostly books in italian by italian authors."
+  },
+  {
+    "objectID": "readings.html#wishlist",
+    "href": "readings.html#wishlist",
+    "title": "Readings",
+    "section": "Wishlist",
+    "text": "Wishlist\nIl calcio del Figlio, Wu Ming 4, Ed. Alegre, 2025.\nIncompletezza, Deborah Gambetta, Ed. Ponte alle Grazie, 2024.\nLa breve stagione (Orig. Colchiques dans les prés), Serge Quadruppani, Ed. Alegre, 2024."
+  },
+  {
+    "objectID": "readings.html#section",
+    "href": "readings.html#section",
+    "title": "Readings",
+    "section": "2025",
+    "text": "2025\nLa macchina del vento, Wu Ming 1, Ed. Einaudi, 2019.\nStirpe e vergogna, Michela Marzano, Ed. Rizzoli, 2021.\nGli uomini pesce, Wu Ming 1, Ed. Einaudi, 2024.\n25, Bernardo Zannoni, Ed. Sellerio, 2023.\nI miei stupidi intenti, Bernardo Zannoni, Ed. Sellerio, 2021.\nCantalamappa. Tutte le storie, Wu Ming, Ed. Electa Junior, 2024.\nLa vera storia della banda Hood, Wu Ming 4, Ed. Bompiani, 2024.\nLa strangera, Marta Aidala, Ed. Guanda, 2024.\nIl ragazzo selvatico. Quaderno di montagna, Paolo Cognetti, Ed. Terre di Mezzo, 2013.\nLe venti giornate di Torino, Giorgio de Maria, Ed. Frassinelli, 2017 (Ed. Il formichiere, 1977)."
   }
 ]

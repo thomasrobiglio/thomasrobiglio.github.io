@@ -10,12 +10,7 @@ website:
         text: About
       - CV.qmd
       - publications.qmd
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "I'm slowly updating this website—please bear with me."
-    type: primary
-    position: below-navbar
+      - readings.qmd
 
 format:
   html:
