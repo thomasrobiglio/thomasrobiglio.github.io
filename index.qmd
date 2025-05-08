@@ -46,7 +46,7 @@ format:
 **Hello there!**
 
 <p style='text-align: justify;'>
-I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/). I am also completing a MPhil. in Network Science at the [Department of Network and Data Science](https://www.ceu.edu/unit/dnds) at CEU.
+I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/).
 </p>
 
 <p style='text-align: justify;'>
@@ -78,6 +78,7 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 </div>
 
 ### Previous affiliations and supervisors
+* [Dept. of Network and Data Science](https://networkdatascience.ceu.edu/), Central European University, Vienna, Austria.
 * [Centre de Physique Théorique](https://www.cpt.univ-mrs.fr), Marseille, France. [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/) and Mathieu Génois.
 * [NPL group](https://nplresearch.github.io) at CENTAI, [ISI Foundation](https://www.isi.it), Torino, Italy. [Giovanni Petri](https://lordgrilo.github.io).
 * Dept. of Physics, UniTO, Torino, Italy. Matteo Osella.
