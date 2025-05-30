@@ -64,7 +64,7 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 :::
 
 ### News
-<div style="height:170px;overflow:scroll;padding:5px;">
+<div style="height:165px;overflow:scroll;padding:5px;">
 
 **29/05/2025** - Upcoming [talk](pdf/presentation_toponets.pdf) at [TopoNets 2025](https://sites.google.com/view/toponets2025/home-page).
 
