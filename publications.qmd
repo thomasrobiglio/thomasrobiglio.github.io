@@ -4,7 +4,11 @@ title: "Publications"
 
 ## Pre-prints
 
-A) Higher-order Ising model on hypergraphs<br />
+A) Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides<br />
+    <u>Thomas Robiglio</u>, Martina Contisciani, Márton Karsai, and Tiago P. Peixoto<br />
+    [![arXiv](https://img.shields.io/badge/arXiv-2507.11503-b31b1b.svg)](https://arxiv.org/abs/2507.11503)<br />
+
+B) Higher-order Ising model on hypergraphs<br />
     <u>Thomas Robiglio</u>, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri, and Federico Battiston<br />
     [![arXiv](https://img.shields.io/badge/arXiv-2411.19618-b31b1b.svg)](https://arxiv.org/abs/2411.19618)<br />
 
