@@ -66,6 +66,10 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 ### News
 <div style="height:165px;overflow:scroll;padding:5px;">
 
+**18/07/2027** - Upcoming [poster presentation](pdf/moma_poster_ic2s2.pdf) at [IC2S2](https://www.ic2s2-2025.org/).
+
+**17/07/2025** - Our manuscript "Higher-order Ising models on hypergraphs" has been accepted in Physical Review E.
+
 **03/06/2025** - Upcoming [talk](pdf/presentation_moma_netsci25.pdf) at [NetSci 2025](https://netsci2025.github.io/) by [Martina](https://mcontisc.github.io/) on our work on internal migrations in Austria.
 
 **29/05/2025** - Upcoming [talk](pdf/presentation_toponets.pdf) at [TopoNets 2025](https://sites.google.com/view/toponets2025/home-page).
