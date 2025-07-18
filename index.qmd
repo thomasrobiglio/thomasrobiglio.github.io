@@ -70,6 +70,8 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 
 **17/07/2025** - Our manuscript "Higher-order Ising models on hypergraphs" has been accepted in Physical Review E.
 
+**16/07/2025** - New [pre-print](https://arxiv.org/abs/2507.11503) "Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides". First work from my PhD!
+
 **03/06/2025** - Upcoming [talk](pdf/presentation_moma_netsci25.pdf) at [NetSci 2025](https://netsci2025.github.io/) by [Martina](https://mcontisc.github.io/) on our work on internal migrations in Austria.
 
 **29/05/2025** - Upcoming [talk](pdf/presentation_toponets.pdf) at [TopoNets 2025](https://sites.google.com/view/toponets2025/home-page).
