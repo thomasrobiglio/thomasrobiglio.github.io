@@ -66,7 +66,9 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 ### News
 <div style="height:165px;overflow:scroll;padding:5px;">
 
-**18/07/2027** - Upcoming [poster presentation](pdf/moma_poster_ic2s2.pdf) at [IC2S2](https://www.ic2s2-2025.org/).
+**25/08/2025** - Our article ["Higher-order Ising model on hypergraph"](https://journals.aps.org/pre/abstract/10.1103/hbh5-3nty) has been published in PRE.
+
+**18/07/2025** - Upcoming [poster presentation](pdf/moma_poster_ic2s2.pdf) at [IC2S2](https://www.ic2s2-2025.org/).
 
 **17/07/2025** - Our manuscript "Higher-order Ising models on hypergraphs" has been accepted in Physical Review E.
 
