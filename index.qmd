@@ -66,6 +66,8 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 ### News
 <div style="height:165px;overflow:scroll;padding:5px;">
 
+**23/04/2025** - Upcoming [presentation](pdf/presentation_NOeG_2025.pdf) at the [NOeG Annual Conference 2025](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization/news-events/events/2025/noeg_conf_25.html).
+
 **25/08/2025** - Our article ["Higher-order Ising model on hypergraph"](https://journals.aps.org/pre/abstract/10.1103/hbh5-3nty) has been published in PRE.
 
 **18/07/2025** - Upcoming [poster presentation](pdf/moma_poster_ic2s2.pdf) at [IC2S2](https://www.ic2s2-2025.org/).
