@@ -67,7 +67,8 @@ def update_qmd(preprints, journal_articles, qmd_file):
                 if arxiv_link:
                     f.write(f"    [![arXiv](https://img.shields.io/badge/arXiv-{arxiv_id}-b31b1b.svg)]({arxiv_link})<br />\n")
                 if doi_link:
-                    f.write(f"    <a href=\"{doi_link}\"><img src=\"https://img.shields.io/badge/DOI-{doi}-blue.svg\"></a><br />\n")
+                    doi_shield = doi.replace("-", "--")  # Fix shields.io hyphen escaping
+                    f.write(f"    <a href=\"{doi_link}\"><img src=\"https://img.shields.io/badge/DOI-{doi_shield}-blue.svg\"></a><br />\n")
                 f.write("\n")
         
         if journal_articles:
@@ -81,7 +82,8 @@ def update_qmd(preprints, journal_articles, qmd_file):
                 if arxiv_link:
                     f.write(f"    [![arXiv](https://img.shields.io/badge/arXiv-{arxiv_id}-b31b1b.svg)]({arxiv_link})<br />\n")
                 if doi_link:
-                    f.write(f"    <a href=\"{doi_link}\"><img src=\"https://img.shields.io/badge/DOI-{doi}-blue.svg\"></a><br />\n")
+                    doi_shield = doi.replace("-", "--")  # Fix shields.io hyphen escaping
+                    f.write(f"    <a href=\"{doi_link}\"><img src=\"https://img.shields.io/badge/DOI-{doi_shield}-blue.svg\"></a><br />\n")
                 f.write("</li> <br />\n")
             f.write("</ol>")
 

@@ -18,7 +18,7 @@ A) Multiscale patterns of migration flows in Austria: regionalization, administr
 <li> Higher-order Ising model on hypergraphs<br />
     <u>Thomas Robiglio</u>, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri, and Federico Battiston<br />
     *Phys. Rev. E*<br />
-    [![arXiv](https://img.shields.io/badge/arXiv-2411.19618-b31b1b.svg)](https://arxiv.org/abs/2411.19618)<br />
+    <a href="https://doi.org/10.1103/hbh5-3nty"><img src="https://img.shields.io/badge/DOI-10.1103/hbh5--3nty-blue.svg"></a><br />
 </li> <br />
 <li> HOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data<br />
     Matteo Neri, Dishie Vinchhi, Christian Ferreyra, <u>Thomas Robiglio</u>, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo, and Etienne Combrisson<br />
