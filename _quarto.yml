@@ -11,6 +11,7 @@ website:
       - CV.qmd
       - publications.qmd
       - readings.qmd
+  open-graph: true
 
 format:
   html:
