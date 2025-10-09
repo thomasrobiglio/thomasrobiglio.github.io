@@ -5,7 +5,7 @@ project:
 website:
   title: "Thomas Robiglio"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: About
       - CV.qmd
