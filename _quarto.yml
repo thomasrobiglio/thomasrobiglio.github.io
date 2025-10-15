@@ -5,11 +5,12 @@ project:
 website:
   title: "Thomas Robiglio"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: About
       - CV.qmd
       - publications.qmd
+    right:
       - readings.qmd
   open-graph: true
 
