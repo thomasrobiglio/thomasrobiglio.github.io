@@ -43,6 +43,7 @@ Assisted senior research scientist Dr. Giovanni Petri in the study of high-order
 
 ## Participations in Schools and Conferences
 
+- Annual Conference of the Austrian Economic Association (NOeG) 2025 - Krems a.d. Donau (Austria), 23 - 24/09/2025
 - 11th International Conference on Computational Social Science - Norrköping (Sweden), 21 - 24/07/2025
 - International School and Conference on Network Science - Maastricht (the Neetherlands), 02 - 06/06/2025
 - International School and Conference on Network Science - Vienna (Austria), 10 - 14/07/2023  
@@ -52,8 +53,13 @@ Assisted senior research scientist Dr. Giovanni Petri in the study of high-order
 ## Software
 
 - [**XGI**](https://xgi.readthedocs.io/en/stable/): CompleX Group Interactions - a Python package for higher-order networks.  
-- [**HOI**](https://brainets.github.io/hoi/): A Python package for higher-order information theory, optimized using JAX.  
+- [**HOI**](https://brainets.github.io/hoi/): A Python package for higher-order information theory, optimized using JAX. 
+
+## Service
+- Member of the Student Union (ÖH) and the University Assembly at IT:U.
+- Organizer, [Data Stories](https://networkdatascience.ceu.edu/data-stories) 11th Edition.
 
 ## Other stuff
 **I'm addicted to cycling:** cycling myself and *watching/having strong opinions about* professional cycling
 
+23
