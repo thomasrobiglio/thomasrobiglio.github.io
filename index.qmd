@@ -66,6 +66,8 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 ### News
 <div style="height:165px;overflow:scroll;padding:5px;">
 
+**08/12/2015** - [Presentation](pdf/CEU_ITU_contisciani_robiglio.pdf) at the International Workshop on Population-Scale Networks.
+
 **23/09/2025** - Upcoming [presentation](pdf/presentation_NOeG_2025.pdf) at the [NOeG Annual Conference 2025](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization/news-events/events/2025/noeg_conf_25.html).
 
 **25/08/2025** - Our article ["Higher-order Ising model on hypergraph"](https://journals.aps.org/pre/abstract/10.1103/hbh5-3nty) has been published in PRE.
