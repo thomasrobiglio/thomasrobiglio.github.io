@@ -50,7 +50,7 @@ I am a PhD student in Complex Systems and Network Science at [IT:U, Interdiscipl
 </p>
 
 <p style='text-align: justify;'>
-My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on [inferential methods](https://skewed.de/lab/research.html) and higher-order systems.
+My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on [inferential methods](https://skewed.de/lab/research.html) and systems with many-body interactions.
 </p>
 
 <p style='text-align: justify;'>
