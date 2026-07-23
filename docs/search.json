@@ -18,14 +18,18 @@
     "href": "readings.html#on-the-list",
     "title": "Readings",
     "section": "On the list",
-    "text": "On the list\nL’Homme qui regardait passer les trains, Georges Simenon, Folio, 1980 (Gallimar, 1938)\nL’adversaire, Emmanuel Carrère, Folio, 2013 (P.O.L., 2000)\nIl giorno del giudizio, Salvatore Satta, Adelphi, 1990 (CEDAM, 1977)\nMitocrazia (Orig. Mythocratie. Storytelling et imaginaire de gauche), Yves Citton, Alegre, 2013.\nDialettica dell’illuminismo (Orig. Dialektik der Aufklärung. Philosophische Fragmente), Max Horkheimer, Theodor W. Adorno, Einaudi, 2010."
+    "text": "On the list\nIl giorno del giudizio, Salvatore Satta, Adelphi, 1990 (CEDAM, 1977)\nMitocrazia (Orig. Mythocratie. Storytelling et imaginaire de gauche), Yves Citton, Alegre, 2013.\nDialettica dell’illuminismo (Orig. Dialektik der Aufklärung. Philosophische Fragmente), Max Horkheimer, Theodor W. Adorno, Einaudi, 2010."
   },
   {
     "objectID": "readings.html#section",
     "href": "readings.html#section",
     "title": "Readings",
     "section": "2026",
+<<<<<<< HEAD
     "text": "2026\nI convitati di pietra, Michele Mari, Einaudi, 2025\nCristo si è fermato a Eboli, Carlo Levi, Einaudi, 2014 (Einaudi, 1945)\nL’avversario, Emmanuel Carrère, Adelphi, 2013 (P.O.L., 2000)\nNapoli milionaria!, Eduardo De Filippo, Einaudi, 1979 (Einaudi, 1950)\nL’Orologio, Carlo Levi, Einaudi, 2025 (Einaudi, 1950)\nI ventitre giorni della città di Alba, Beppe Fenoglio, Einaudi, 2022 (Einaudi, 1952)\nLimonov (Orig. Limonov), Emmanuel Carrère, Adelphi, 2012\nLezioni di letteratura (Orig. Lectures on Literature), Vladimir Nabokov, Adelphi, 2018\nMemorie di un pazzo (Orig. Записки сумасшедшего), Nikolaj Gogol’, Adelphi, 2024\nL’età fragile, Donatella Di Pietrantonio, Einaudi, 2023.\nGiù nella valle, Paolo Cognetti, Einaudi, 2023."
+=======
+    "text": "2026\nL’uomo che guardava passare i treni (Orig. L’homme qui regardait passer les trains), Georges Simenon, Adelphi, 1986 (Gallimar, 1938)\nI convitati di pietra, Michele Mari, Einaudi, 2025\nCristo si è fermato a Eboli, Carlo Levi, Einaudi, 2014 (Einaudi, 1945)\nL’avversario, Emmanuel Carrère, Adelphi, 2013 (P.O.L., 2000)\nNapoli milionaria!, Eduardo De Filippo, Einaudi, 1979 (Einaudi, 1950)\nL’Orologio, Carlo Levi, Einaudi, 2025 (Einaudi, 1950)\nI ventitre giorni della città di Alba, Beppe Fenoglio, Einaudi, 2022 (Einaudi, 1952)\nLimonov (Orig. Limonov), Emmanuel Carrère, Adelphi, 2012\nLezioni di letteratura (Orig. Lectures on Literature), Vladimir Nabokov, Adelphi, 2018\nMemorie di un pazzo (Orig. Записки сумасшедшего), Nikolaj Gogol’, Adelphi, 2024\nL’età fragile, Donatella Di Pietrantonio, Einaudi, 2023.\nGiù nella valle, Paolo Cognetti, Einaudi, 2023."
+>>>>>>> c369ba5 (update readings)
   },
   {
     "objectID": "readings.html#past-years",
