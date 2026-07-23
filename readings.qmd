@@ -16,11 +16,8 @@ title: "Readings"
 
 ## 2026
 
-<<<<<<< HEAD
-=======
 **L’uomo che guardava passare i treni** (Orig. *L'homme qui regardait passer les trains*), Georges Simenon, Adelphi, 1986 (*Gallimar, 1938*)
 
->>>>>>> c369ba5 (update readings)
 **I convitati di pietra**, Michele Mari, Einaudi, 2025
 
 **Cristo si è fermato a Eboli**, Carlo Levi, Einaudi, 2014 (*Einaudi, 1945*)
