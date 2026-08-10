@@ -1,0 +1,50 @@
+/*-- scss:defaults --*/
+
+$body-bg: #121212;
+$body-color: #E0E0E0;
+$link-color: #75AADB;
+$code-block-bg-alpha: -0.8;
+
+//links
+a:link { 
+  text-decoration: none; 
+} 
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+// Mobile
+@media screen and (max-width: 991.98px) {
+    // social media links
+    .about-entity .about-links {
+      flex-direction: row !important;
+      justify-content: center !important;
+    }
+  
+    // navigation footer
+    .nav-footer {
+        flex-direction: row;
+      }
+  
+    .nav-footer-center {
+      order: 1 !important;
+      flex-basis: 100%;
+      margin: 0 0 -1.2em 0;
+    }
+  
+    .nav-footer-right {
+      order: 2 !important;
+      flex-basis: 100%;
+      text-align: center;
+    }
+  
+    .nav-footer-left {
+      order: 3 !important;
+      flex-basis: 100%;
+      text-align: center;
+    }
+  
+    .navbar .quarto-navbar-tools {
+      text-align: left;
+    }
+  }

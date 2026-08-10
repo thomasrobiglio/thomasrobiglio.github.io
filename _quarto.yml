@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thomas Robiglio"
+  favicon: pictures/favicon.svg
+  navbar:
+    background: secondary
+    left:
+      - href: index.qmd
+        text: About
+      - CV.qmd
+      - publications.qmd
+    right:
+      - readings.qmd
+  open-graph: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: Computer Modern, serif;
+    css: styles.css
+    toc: true
+
+
+

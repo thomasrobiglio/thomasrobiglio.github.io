@@ -1,0 +1,33 @@
+---
+title: "Publications"
+---
+
+## Pre-prints
+
+A) Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides<br />
+    <u>Thomas Robiglio</u>, Martina Contisciani, Márton Karsai, and Tiago P. Peixoto<br />
+    [![arXiv](https://img.shields.io/badge/arXiv-2507.11503-b31b1b.svg)](https://arxiv.org/abs/2507.11503)<br />
+
+## Journal articles
+
+<ol reversed><li> Synergistic Signatures of Group Mechanisms in Higher-Order Systems<br />
+    <u>Thomas Robiglio</u>, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri<br />
+    *Phys. Rev. Lett.*<br />
+    <a href="https://doi.org/10.1103/PhysRevLett.134.137401"><img src="https://img.shields.io/badge/DOI-10.1103/PhysRevLett.134.137401-blue.svg"></a><br />
+</li> <br />
+<li> Higher-order Ising model on hypergraphs<br />
+    <u>Thomas Robiglio</u>, Leonardo Di Gaetano, Ada Altieri, Giovanni Petri, and Federico Battiston<br />
+    *Phys. Rev. E*<br />
+    <a href="https://doi.org/10.1103/hbh5-3nty"><img src="https://img.shields.io/badge/DOI-10.1103/hbh5--3nty-blue.svg"></a><br />
+</li> <br />
+<li> HOI: A Python toolbox for high-performance estimation of Higher-Order Interactions from multivariate data<br />
+    Matteo Neri, Dishie Vinchhi, Christian Ferreyra, <u>Thomas Robiglio</u>, Onur Ates, Marlis Ontivero-Ortega, Andrea Brovelli, Daniele Marinazzo, and Etienne Combrisson<br />
+    *Journal of Open Source Software*<br />
+    <a href="https://doi.org/10.21105/joss.07360"><img src="https://img.shields.io/badge/DOI-10.21105/joss.07360-blue.svg"></a><br />
+</li> <br />
+<li> Simplicially driven simple contagion<br />
+    Maxime Lucas, Iacopo Iacopini, <u>Thomas Robiglio</u>, Alain Barrat, and Giovanni Petri<br />
+    *Phys. Rev. Res.*<br />
+    <a href="https://doi.org/10.1103/PhysRevResearch.5.013201"><img src="https://img.shields.io/badge/DOI-10.1103/PhysRevResearch.5.013201-blue.svg"></a><br />
+</li> <br />
+</ol>
