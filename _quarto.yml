@@ -7,6 +7,8 @@ website:
   favicon: pictures/favicon.svg
   navbar:
     background: secondary
+    logo: pictures/logo-navbar.svg
+    logo-alt: "Thomas Robiglio"
     left:
       - href: index.qmd
         text: About
