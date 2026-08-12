@@ -1,1 +1,8 @@
 /* css styles */
+
+/* Bigger navbar logo */
+.navbar-logo {
+  max-height: 44px;
+  min-height: 44px;
+  margin-right: 0.7em;
+}
