@@ -2,15 +2,14 @@
 title: "Publications"
 ---
 
-## Pre-prints
-
-A) Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides<br />
-    <u>Thomas Robiglio</u>, Martina Contisciani, Márton Karsai, and Tiago P. Peixoto<br />
-    [![arXiv](https://img.shields.io/badge/arXiv-2507.11503-b31b1b.svg)](https://arxiv.org/abs/2507.11503)<br />
-
 ## Journal articles
 
-<ol reversed><li> Synergistic Signatures of Group Mechanisms in Higher-Order Systems<br />
+<ol reversed><li> Multiscale patterns of migration flows in Austria: regionalization,  administrative barriers,  and urban-rural divides<br />
+    <u>Thomas Robiglio</u>, Martina Contisciani, Márton Karsai, and Tiago P. Peixoto<br />
+    *Scientific Reports*<br />
+    <a href="https://doi.org/10.1038/s41598-026-65102-6"><img src="https://img.shields.io/badge/DOI-10.1038/s41598--026--65102--6-blue.svg"></a><br />
+</li> <br />
+<li> Synergistic Signatures of Group Mechanisms in Higher-Order Systems<br />
     <u>Thomas Robiglio</u>, Matteo Neri, Davide Coppes, Cosimo Agostinelli, Federico Battiston, Maxime Lucas, and Giovanni Petri<br />
     *Phys. Rev. Lett.*<br />
     <a href="https://doi.org/10.1103/PhysRevLett.134.137401"><img src="https://img.shields.io/badge/DOI-10.1103/PhysRevLett.134.137401-blue.svg"></a><br />
