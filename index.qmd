@@ -36,6 +36,10 @@ about:
       aria-label: "Strava"
       href: https://www.strava.com/athletes/28994784
 
+    - text: "{{< iconify simple-icons substack >}}"
+      aria-label: "Substack"
+      href: https://thomasrobiglio.substack.com
+
 format:
   html:
     css: index.css
