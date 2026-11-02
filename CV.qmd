@@ -4,9 +4,12 @@ title: "Curriculum Vitae"
 
 ## Education
 
+### C3S, Goethe University Frankfurt
+**PhD in Computer Science** *(November 2026 - Present)*
+**Supervisor:** Prof. T. P. Peixoto
+
 ### IT:U - Austria
-**PhD in Complex Systems and Network Science** *(October 2024 - Present)*<br />
-**Thesis:** *"Internal migrations in Austria: modeling and inference of temporal graphs"*  
+**PhD in Complex Systems and Network Science** *(October 2024 - October 2026)*<br />  
 **Supervisor:** Prof. T. P. Peixoto
 
 ### Central European University  

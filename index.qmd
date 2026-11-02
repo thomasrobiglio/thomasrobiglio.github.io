@@ -50,7 +50,7 @@ format:
 **Hello there!**
 
 <p style='text-align: justify;'>
-I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/).
+I am a PhD student and researcher in Complex Systems and Network Science at [Center for Critical Computational Studies](https://www.c3s-frankfurt.de/).
 </p>
 
 <p style='text-align: justify;'>
@@ -69,6 +69,7 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 
 ### News
 <div style="height:165px;overflow:scroll;padding:5px;">
+**02/11/2026** - I have moved to [Center for Critical Computational Studies](https://www.c3s-frankfurt.de/), [Goethe University Frankfurt](https://www.uni-frankfurt.de/).
 
 **23/09/2025** - Upcoming [presentation](pdf/presentation_NOeG_2025.pdf) at the [NOeG Annual Conference 2025](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization/news-events/events/2025/noeg_conf_25.html).
 
